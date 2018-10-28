@@ -1,4 +1,4 @@
-# Deep Learning using Keras API
+# Deep Learning using Keras
 >Flower  Classifier  - CNN
 
 >MIAS    Classifier  - CNN
